@@ -6,10 +6,6 @@
 
 > **Demo data only.** All customers, markets, and financial transactions are synthesized. Numbers are not real company performance.
 
-## Preview
-
-Add your own screenshot after running the app: `docs/dashboard.png`. The project generates real charts and audit tables when launched.
-
 ## What it demonstrates
 
 - Python ETL and dimensional reporting model, with `dim_customers`, `fct_subscription_snapshots` and SQL marts.
