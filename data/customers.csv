@@ -1,0 +1,421 @@
+customer_id,signup_month,country,channel,segment
+C00001,2024-04-01,France,Partner,SMB
+C00002,2026-03-01,Germany,Referral,SMB
+C00003,2025-11-01,France,Referral,Mid-Market
+C00004,2025-03-01,Germany,Partner,SMB
+C00005,2025-03-01,Sweden,Referral,SMB
+C00006,2026-06-01,Sweden,Referral,Mid-Market
+C00007,2024-03-01,France,Paid Search,Mid-Market
+C00008,2025-12-01,Germany,Organic,Mid-Market
+C00009,2024-07-01,Netherlands,Paid Search,Mid-Market
+C00010,2024-04-01,United Kingdom,Organic,SMB
+C00011,2025-06-01,Sweden,Organic,Mid-Market
+C00012,2026-10-01,United Kingdom,Paid Search,SMB
+C00013,2026-02-01,United Kingdom,Partner,SMB
+C00014,2026-02-01,Sweden,Partner,SMB
+C00015,2026-01-01,France,Organic,SMB
+C00016,2026-03-01,Sweden,Organic,SMB
+C00017,2025-06-01,United Kingdom,Referral,Enterprise
+C00018,2024-05-01,Netherlands,Organic,SMB
+C00019,2026-05-01,France,Organic,SMB
+C00020,2025-04-01,United Kingdom,Paid Search,Mid-Market
+C00021,2025-06-01,United Kingdom,Referral,SMB
+C00022,2025-01-01,Sweden,Organic,Mid-Market
+C00023,2024-07-01,United Kingdom,Paid Search,SMB
+C00024,2026-08-01,Sweden,Paid Search,SMB
+C00025,2026-03-01,France,Organic,Mid-Market
+C00026,2025-10-01,Sweden,Referral,Mid-Market
+C00027,2025-02-01,Netherlands,Referral,SMB
+C00028,2026-04-01,Netherlands,Partner,SMB
+C00029,2025-07-01,Netherlands,Organic,Enterprise
+C00030,2025-04-01,Netherlands,Partner,SMB
+C00031,2025-04-01,France,Organic,SMB
+C00032,2024-08-01,United Kingdom,Referral,Mid-Market
+C00033,2024-04-01,Netherlands,Paid Search,SMB
+C00034,2025-07-01,Germany,Partner,SMB
+C00035,2026-07-01,Germany,Paid Search,Mid-Market
+C00036,2024-03-01,Sweden,Organic,SMB
+C00037,2026-06-01,France,Paid Search,SMB
+C00038,2026-05-01,Germany,Referral,Enterprise
+C00039,2024-10-01,Sweden,Organic,Mid-Market
+C00040,2025-10-01,Netherlands,Referral,SMB
+C00041,2024-06-01,Germany,Organic,SMB
+C00042,2026-02-01,Germany,Partner,SMB
+C00043,2025-12-01,Netherlands,Organic,SMB
+C00044,2025-01-01,Sweden,Partner,SMB
+C00045,2024-03-01,United Kingdom,Partner,Mid-Market
+C00046,2026-10-01,Netherlands,Referral,SMB
+C00047,2025-04-01,United Kingdom,Partner,Mid-Market
+C00048,2026-07-01,Sweden,Organic,SMB
+C00049,2025-12-01,Germany,Referral,SMB
+C00050,2026-03-01,Netherlands,Organic,Mid-Market
+C00051,2026-02-01,Germany,Paid Search,Mid-Market
+C00052,2024-07-01,Netherlands,Referral,Mid-Market
+C00053,2025-01-01,Netherlands,Referral,SMB
+C00054,2025-04-01,United Kingdom,Referral,SMB
+C00055,2025-05-01,France,Paid Search,SMB
+C00056,2024-02-01,United Kingdom,Organic,SMB
+C00057,2025-07-01,Sweden,Organic,SMB
+C00058,2024-06-01,France,Organic,SMB
+C00059,2026-02-01,United Kingdom,Partner,SMB
+C00060,2025-12-01,United Kingdom,Paid Search,Enterprise
+C00061,2026-08-01,Germany,Organic,SMB
+C00062,2026-02-01,United Kingdom,Paid Search,SMB
+C00063,2025-01-01,Germany,Paid Search,SMB
+C00064,2026-09-01,Germany,Paid Search,SMB
+C00065,2025-02-01,France,Organic,SMB
+C00066,2024-12-01,Netherlands,Organic,SMB
+C00067,2026-07-01,Netherlands,Partner,SMB
+C00068,2025-01-01,United Kingdom,Paid Search,SMB
+C00069,2024-03-01,Germany,Organic,SMB
+C00070,2025-04-01,France,Referral,SMB
+C00071,2026-04-01,Germany,Paid Search,SMB
+C00072,2024-07-01,Netherlands,Referral,SMB
+C00073,2025-04-01,France,Referral,SMB
+C00074,2024-05-01,Germany,Paid Search,SMB
+C00075,2025-12-01,Netherlands,Paid Search,SMB
+C00076,2025-05-01,Germany,Organic,Mid-Market
+C00077,2024-12-01,France,Referral,SMB
+C00078,2024-08-01,United Kingdom,Organic,SMB
+C00079,2025-08-01,Germany,Organic,Mid-Market
+C00080,2025-11-01,Netherlands,Organic,Mid-Market
+C00081,2026-08-01,Netherlands,Paid Search,Mid-Market
+C00082,2025-03-01,Sweden,Paid Search,SMB
+C00083,2024-06-01,Netherlands,Paid Search,Mid-Market
+C00084,2026-05-01,Netherlands,Partner,Mid-Market
+C00085,2025-10-01,Netherlands,Organic,Mid-Market
+C00086,2025-12-01,Sweden,Partner,Mid-Market
+C00087,2024-04-01,United Kingdom,Referral,SMB
+C00088,2024-11-01,United Kingdom,Organic,SMB
+C00089,2026-03-01,Netherlands,Organic,SMB
+C00090,2026-05-01,Sweden,Referral,SMB
+C00091,2025-03-01,United Kingdom,Referral,Mid-Market
+C00092,2026-04-01,France,Organic,SMB
+C00093,2026-05-01,Sweden,Organic,Enterprise
+C00094,2025-02-01,France,Organic,SMB
+C00095,2026-07-01,Netherlands,Organic,Mid-Market
+C00096,2024-10-01,Germany,Organic,SMB
+C00097,2024-09-01,Germany,Referral,Mid-Market
+C00098,2025-12-01,Sweden,Organic,SMB
+C00099,2025-10-01,Netherlands,Referral,SMB
+C00100,2024-05-01,Sweden,Partner,SMB
+C00101,2026-05-01,Germany,Referral,SMB
+C00102,2024-07-01,Germany,Organic,SMB
+C00103,2026-04-01,United Kingdom,Paid Search,SMB
+C00104,2024-01-01,United Kingdom,Organic,SMB
+C00105,2026-04-01,Germany,Organic,SMB
+C00106,2026-03-01,Netherlands,Paid Search,SMB
+C00107,2026-03-01,Germany,Paid Search,SMB
+C00108,2025-11-01,Netherlands,Paid Search,SMB
+C00109,2025-05-01,Germany,Organic,SMB
+C00110,2025-12-01,United Kingdom,Organic,SMB
+C00111,2024-10-01,Germany,Partner,Enterprise
+C00112,2026-03-01,Sweden,Referral,SMB
+C00113,2025-07-01,United Kingdom,Organic,Enterprise
+C00114,2025-04-01,United Kingdom,Paid Search,SMB
+C00115,2025-06-01,United Kingdom,Referral,SMB
+C00116,2025-08-01,United Kingdom,Organic,Enterprise
+C00117,2024-02-01,France,Paid Search,SMB
+C00118,2024-05-01,Sweden,Organic,SMB
+C00119,2024-09-01,Netherlands,Organic,Enterprise
+C00120,2024-04-01,Germany,Organic,SMB
+C00121,2025-03-01,Netherlands,Referral,SMB
+C00122,2025-11-01,Germany,Paid Search,Mid-Market
+C00123,2025-11-01,Germany,Organic,SMB
+C00124,2025-05-01,Netherlands,Paid Search,SMB
+C00125,2026-06-01,United Kingdom,Organic,SMB
+C00126,2025-08-01,Netherlands,Organic,SMB
+C00127,2024-03-01,United Kingdom,Paid Search,Mid-Market
+C00128,2026-03-01,France,Organic,SMB
+C00129,2025-08-01,France,Organic,Mid-Market
+C00130,2025-10-01,France,Paid Search,SMB
+C00131,2025-08-01,France,Paid Search,SMB
+C00132,2025-07-01,France,Organic,Mid-Market
+C00133,2024-04-01,France,Organic,SMB
+C00134,2025-08-01,France,Referral,Mid-Market
+C00135,2026-04-01,Sweden,Organic,Enterprise
+C00136,2024-11-01,United Kingdom,Organic,SMB
+C00137,2025-09-01,United Kingdom,Organic,SMB
+C00138,2024-02-01,France,Organic,SMB
+C00139,2024-12-01,Sweden,Organic,SMB
+C00140,2025-03-01,United Kingdom,Paid Search,SMB
+C00141,2026-10-01,Germany,Organic,SMB
+C00142,2024-08-01,United Kingdom,Organic,Mid-Market
+C00143,2024-10-01,United Kingdom,Paid Search,SMB
+C00144,2025-02-01,United Kingdom,Partner,Enterprise
+C00145,2026-10-01,Netherlands,Referral,Mid-Market
+C00146,2026-06-01,United Kingdom,Referral,SMB
+C00147,2024-02-01,United Kingdom,Paid Search,SMB
+C00148,2024-08-01,France,Organic,SMB
+C00149,2026-04-01,Sweden,Organic,SMB
+C00150,2024-02-01,Sweden,Referral,SMB
+C00151,2026-06-01,Sweden,Paid Search,Mid-Market
+C00152,2024-10-01,United Kingdom,Organic,SMB
+C00153,2026-08-01,Sweden,Organic,Mid-Market
+C00154,2024-10-01,United Kingdom,Paid Search,SMB
+C00155,2025-03-01,France,Organic,SMB
+C00156,2025-11-01,Sweden,Organic,SMB
+C00157,2024-05-01,United Kingdom,Organic,SMB
+C00158,2025-07-01,United Kingdom,Organic,Mid-Market
+C00159,2025-06-01,Netherlands,Organic,Enterprise
+C00160,2026-03-01,France,Referral,SMB
+C00161,2026-10-01,France,Referral,SMB
+C00162,2025-11-01,United Kingdom,Referral,SMB
+C00163,2025-02-01,United Kingdom,Organic,Mid-Market
+C00164,2025-02-01,United Kingdom,Organic,Mid-Market
+C00165,2025-03-01,Sweden,Organic,SMB
+C00166,2026-04-01,Germany,Organic,Mid-Market
+C00167,2024-11-01,Sweden,Referral,Mid-Market
+C00168,2024-06-01,Sweden,Paid Search,Mid-Market
+C00169,2024-12-01,Germany,Organic,Mid-Market
+C00170,2024-01-01,Netherlands,Paid Search,SMB
+C00171,2024-04-01,United Kingdom,Organic,SMB
+C00172,2024-04-01,United Kingdom,Paid Search,Mid-Market
+C00173,2026-03-01,United Kingdom,Organic,SMB
+C00174,2026-01-01,France,Paid Search,SMB
+C00175,2025-12-01,France,Organic,Mid-Market
+C00176,2025-04-01,Sweden,Paid Search,Mid-Market
+C00177,2026-01-01,Germany,Paid Search,SMB
+C00178,2024-06-01,Netherlands,Referral,Mid-Market
+C00179,2026-07-01,France,Paid Search,SMB
+C00180,2025-06-01,Sweden,Paid Search,Mid-Market
+C00181,2026-08-01,Sweden,Referral,SMB
+C00182,2024-06-01,France,Paid Search,Mid-Market
+C00183,2025-05-01,Sweden,Referral,SMB
+C00184,2025-12-01,France,Referral,Mid-Market
+C00185,2025-05-01,Sweden,Organic,Mid-Market
+C00186,2025-04-01,Germany,Organic,SMB
+C00187,2024-06-01,Netherlands,Paid Search,SMB
+C00188,2025-01-01,France,Organic,SMB
+C00189,2024-09-01,Netherlands,Paid Search,SMB
+C00190,2024-11-01,Germany,Paid Search,SMB
+C00191,2025-12-01,Germany,Organic,SMB
+C00192,2025-10-01,France,Organic,SMB
+C00193,2025-09-01,United Kingdom,Partner,SMB
+C00194,2025-01-01,Sweden,Paid Search,SMB
+C00195,2026-09-01,Sweden,Organic,SMB
+C00196,2024-03-01,Sweden,Organic,SMB
+C00197,2024-12-01,Germany,Referral,SMB
+C00198,2024-05-01,Sweden,Paid Search,SMB
+C00199,2024-12-01,Sweden,Organic,Mid-Market
+C00200,2026-09-01,Netherlands,Partner,SMB
+C00201,2025-01-01,Germany,Paid Search,SMB
+C00202,2026-07-01,Sweden,Partner,SMB
+C00203,2025-05-01,United Kingdom,Paid Search,Enterprise
+C00204,2025-12-01,France,Paid Search,Mid-Market
+C00205,2025-04-01,Germany,Organic,SMB
+C00206,2024-10-01,Netherlands,Organic,SMB
+C00207,2026-02-01,Germany,Organic,Mid-Market
+C00208,2026-09-01,Netherlands,Referral,SMB
+C00209,2024-09-01,United Kingdom,Organic,SMB
+C00210,2026-03-01,Germany,Partner,SMB
+C00211,2024-09-01,Sweden,Organic,SMB
+C00212,2026-01-01,Sweden,Paid Search,Mid-Market
+C00213,2026-03-01,Netherlands,Organic,SMB
+C00214,2025-04-01,Germany,Paid Search,Mid-Market
+C00215,2026-02-01,Netherlands,Paid Search,Mid-Market
+C00216,2024-10-01,France,Paid Search,Enterprise
+C00217,2024-03-01,Germany,Paid Search,SMB
+C00218,2024-04-01,Netherlands,Paid Search,SMB
+C00219,2025-04-01,France,Referral,Enterprise
+C00220,2026-07-01,Netherlands,Referral,SMB
+C00221,2024-05-01,Sweden,Referral,SMB
+C00222,2025-04-01,France,Referral,Mid-Market
+C00223,2025-12-01,France,Referral,Mid-Market
+C00224,2024-07-01,Netherlands,Partner,SMB
+C00225,2026-01-01,Netherlands,Organic,Mid-Market
+C00226,2024-11-01,France,Paid Search,SMB
+C00227,2026-04-01,Netherlands,Organic,SMB
+C00228,2025-08-01,Sweden,Referral,SMB
+C00229,2025-07-01,United Kingdom,Paid Search,SMB
+C00230,2024-07-01,United Kingdom,Paid Search,SMB
+C00231,2025-04-01,Sweden,Partner,Mid-Market
+C00232,2026-06-01,Sweden,Partner,SMB
+C00233,2024-01-01,United Kingdom,Partner,Mid-Market
+C00234,2026-02-01,Germany,Organic,Mid-Market
+C00235,2025-05-01,France,Organic,SMB
+C00236,2026-01-01,Germany,Organic,SMB
+C00237,2025-11-01,United Kingdom,Organic,Enterprise
+C00238,2025-03-01,Netherlands,Organic,Mid-Market
+C00239,2024-11-01,Netherlands,Referral,SMB
+C00240,2025-10-01,France,Paid Search,Enterprise
+C00241,2024-05-01,United Kingdom,Referral,SMB
+C00242,2025-08-01,France,Organic,Mid-Market
+C00243,2024-04-01,France,Organic,Mid-Market
+C00244,2025-11-01,Sweden,Partner,SMB
+C00245,2025-10-01,Sweden,Paid Search,SMB
+C00246,2024-03-01,Netherlands,Organic,Mid-Market
+C00247,2026-02-01,United Kingdom,Paid Search,SMB
+C00248,2025-03-01,Sweden,Referral,SMB
+C00249,2026-03-01,Netherlands,Organic,SMB
+C00250,2024-02-01,Sweden,Paid Search,SMB
+C00251,2024-07-01,Sweden,Partner,Enterprise
+C00252,2025-05-01,France,Referral,Enterprise
+C00253,2024-07-01,Sweden,Partner,SMB
+C00254,2024-12-01,Sweden,Organic,Mid-Market
+C00255,2025-11-01,Germany,Referral,SMB
+C00256,2024-05-01,Sweden,Organic,Enterprise
+C00257,2025-12-01,Sweden,Partner,SMB
+C00258,2024-04-01,Germany,Referral,Mid-Market
+C00259,2024-06-01,Germany,Paid Search,SMB
+C00260,2025-08-01,France,Partner,SMB
+C00261,2026-03-01,United Kingdom,Paid Search,SMB
+C00262,2024-06-01,France,Referral,SMB
+C00263,2024-11-01,Netherlands,Organic,SMB
+C00264,2026-08-01,Sweden,Organic,SMB
+C00265,2026-10-01,Sweden,Paid Search,Enterprise
+C00266,2025-08-01,Sweden,Referral,SMB
+C00267,2025-04-01,United Kingdom,Paid Search,SMB
+C00268,2024-12-01,France,Organic,SMB
+C00269,2025-09-01,United Kingdom,Partner,Mid-Market
+C00270,2025-09-01,United Kingdom,Organic,SMB
+C00271,2024-11-01,Sweden,Paid Search,Enterprise
+C00272,2024-01-01,Sweden,Organic,SMB
+C00273,2024-06-01,Netherlands,Referral,Mid-Market
+C00274,2026-09-01,United Kingdom,Organic,SMB
+C00275,2025-03-01,Netherlands,Paid Search,Mid-Market
+C00276,2025-05-01,Sweden,Organic,Enterprise
+C00277,2025-04-01,France,Organic,SMB
+C00278,2026-03-01,Sweden,Organic,SMB
+C00279,2024-03-01,Sweden,Paid Search,SMB
+C00280,2024-03-01,France,Partner,Mid-Market
+C00281,2024-10-01,Germany,Organic,Mid-Market
+C00282,2025-05-01,United Kingdom,Organic,Mid-Market
+C00283,2025-11-01,Netherlands,Organic,SMB
+C00284,2025-05-01,Netherlands,Referral,SMB
+C00285,2025-03-01,Germany,Organic,Mid-Market
+C00286,2026-08-01,Sweden,Referral,SMB
+C00287,2024-06-01,France,Organic,SMB
+C00288,2025-08-01,France,Organic,SMB
+C00289,2025-07-01,Germany,Paid Search,Mid-Market
+C00290,2025-05-01,Sweden,Paid Search,SMB
+C00291,2026-04-01,Germany,Paid Search,SMB
+C00292,2024-10-01,United Kingdom,Partner,SMB
+C00293,2026-09-01,France,Paid Search,Enterprise
+C00294,2024-12-01,United Kingdom,Paid Search,SMB
+C00295,2025-07-01,Germany,Organic,Enterprise
+C00296,2025-06-01,United Kingdom,Referral,Mid-Market
+C00297,2026-05-01,Netherlands,Referral,SMB
+C00298,2025-03-01,United Kingdom,Referral,SMB
+C00299,2024-10-01,Netherlands,Referral,Mid-Market
+C00300,2024-01-01,Sweden,Organic,SMB
+C00301,2025-01-01,France,Organic,SMB
+C00302,2026-05-01,United Kingdom,Paid Search,SMB
+C00303,2024-01-01,United Kingdom,Organic,SMB
+C00304,2026-07-01,France,Organic,SMB
+C00305,2025-07-01,Germany,Paid Search,Mid-Market
+C00306,2024-05-01,United Kingdom,Referral,SMB
+C00307,2024-11-01,Sweden,Referral,SMB
+C00308,2025-07-01,Sweden,Referral,SMB
+C00309,2024-11-01,Sweden,Referral,Mid-Market
+C00310,2024-04-01,France,Paid Search,Enterprise
+C00311,2025-11-01,Germany,Paid Search,Enterprise
+C00312,2025-11-01,United Kingdom,Referral,SMB
+C00313,2024-05-01,Netherlands,Referral,SMB
+C00314,2024-10-01,Netherlands,Partner,SMB
+C00315,2024-09-01,Germany,Partner,SMB
+C00316,2025-11-01,Sweden,Partner,SMB
+C00317,2026-01-01,Germany,Referral,Mid-Market
+C00318,2026-01-01,Sweden,Referral,SMB
+C00319,2026-08-01,Netherlands,Paid Search,SMB
+C00320,2026-03-01,Sweden,Organic,SMB
+C00321,2024-11-01,France,Organic,SMB
+C00322,2024-04-01,Netherlands,Partner,Mid-Market
+C00323,2025-09-01,France,Partner,SMB
+C00324,2026-08-01,Netherlands,Paid Search,SMB
+C00325,2026-10-01,France,Organic,Mid-Market
+C00326,2024-08-01,Sweden,Organic,SMB
+C00327,2024-09-01,United Kingdom,Paid Search,Enterprise
+C00328,2024-02-01,France,Referral,SMB
+C00329,2024-05-01,France,Referral,SMB
+C00330,2025-07-01,France,Referral,SMB
+C00331,2025-07-01,France,Paid Search,SMB
+C00332,2025-01-01,United Kingdom,Organic,SMB
+C00333,2024-11-01,Sweden,Paid Search,SMB
+C00334,2026-05-01,Netherlands,Organic,SMB
+C00335,2025-04-01,United Kingdom,Organic,Mid-Market
+C00336,2026-04-01,United Kingdom,Partner,Mid-Market
+C00337,2026-09-01,Sweden,Partner,SMB
+C00338,2024-11-01,Germany,Paid Search,SMB
+C00339,2024-07-01,Germany,Organic,Mid-Market
+C00340,2026-09-01,Sweden,Paid Search,Mid-Market
+C00341,2025-10-01,Sweden,Paid Search,SMB
+C00342,2024-10-01,France,Organic,SMB
+C00343,2025-10-01,Netherlands,Organic,Mid-Market
+C00344,2025-06-01,Germany,Partner,SMB
+C00345,2026-07-01,Sweden,Organic,Mid-Market
+C00346,2024-09-01,Netherlands,Organic,Enterprise
+C00347,2026-10-01,Netherlands,Partner,SMB
+C00348,2026-08-01,Germany,Organic,Mid-Market
+C00349,2024-07-01,Germany,Organic,SMB
+C00350,2024-06-01,Germany,Organic,SMB
+C00351,2025-07-01,France,Organic,Mid-Market
+C00352,2024-02-01,Germany,Organic,SMB
+C00353,2024-11-01,Sweden,Paid Search,Mid-Market
+C00354,2025-03-01,France,Organic,SMB
+C00355,2026-09-01,Germany,Paid Search,SMB
+C00356,2026-10-01,Sweden,Organic,SMB
+C00357,2024-06-01,Sweden,Organic,SMB
+C00358,2026-07-01,Sweden,Paid Search,SMB
+C00359,2024-04-01,Sweden,Organic,Mid-Market
+C00360,2026-02-01,United Kingdom,Paid Search,SMB
+C00361,2026-05-01,Netherlands,Organic,SMB
+C00362,2026-07-01,France,Partner,Mid-Market
+C00363,2024-08-01,Germany,Organic,SMB
+C00364,2026-07-01,France,Paid Search,Mid-Market
+C00365,2024-04-01,Germany,Organic,Mid-Market
+C00366,2025-06-01,Germany,Paid Search,SMB
+C00367,2025-04-01,United Kingdom,Organic,SMB
+C00368,2024-11-01,Netherlands,Organic,SMB
+C00369,2024-01-01,United Kingdom,Partner,SMB
+C00370,2026-03-01,France,Referral,SMB
+C00371,2024-12-01,Netherlands,Referral,Mid-Market
+C00372,2025-11-01,France,Paid Search,SMB
+C00373,2025-02-01,France,Organic,Enterprise
+C00374,2025-01-01,Germany,Paid Search,SMB
+C00375,2026-07-01,Sweden,Organic,Mid-Market
+C00376,2024-04-01,Sweden,Organic,SMB
+C00377,2026-02-01,United Kingdom,Organic,SMB
+C00378,2026-02-01,United Kingdom,Organic,SMB
+C00379,2025-01-01,Germany,Paid Search,SMB
+C00380,2024-09-01,Germany,Referral,SMB
+C00381,2024-01-01,United Kingdom,Organic,SMB
+C00382,2026-08-01,Sweden,Paid Search,SMB
+C00383,2026-09-01,United Kingdom,Organic,SMB
+C00384,2024-09-01,France,Organic,SMB
+C00385,2024-02-01,United Kingdom,Organic,SMB
+C00386,2024-05-01,United Kingdom,Paid Search,Mid-Market
+C00387,2024-03-01,France,Paid Search,SMB
+C00388,2026-05-01,Netherlands,Organic,SMB
+C00389,2026-07-01,Netherlands,Paid Search,SMB
+C00390,2024-06-01,Netherlands,Organic,SMB
+C00391,2026-02-01,France,Referral,SMB
+C00392,2024-07-01,France,Paid Search,SMB
+C00393,2025-01-01,Sweden,Partner,Mid-Market
+C00394,2025-09-01,France,Paid Search,Mid-Market
+C00395,2026-01-01,Netherlands,Partner,SMB
+C00396,2026-06-01,France,Organic,SMB
+C00397,2024-02-01,United Kingdom,Paid Search,SMB
+C00398,2024-07-01,Germany,Organic,Mid-Market
+C00399,2024-10-01,Germany,Organic,SMB
+C00400,2024-11-01,United Kingdom,Paid Search,Mid-Market
+C00401,2026-10-01,Sweden,Organic,Mid-Market
+C00402,2026-03-01,United Kingdom,Partner,Mid-Market
+C00403,2024-11-01,Sweden,Partner,SMB
+C00404,2026-10-01,France,Paid Search,Enterprise
+C00405,2025-05-01,Germany,Organic,Mid-Market
+C00406,2025-06-01,Germany,Paid Search,Mid-Market
+C00407,2025-03-01,Sweden,Organic,SMB
+C00408,2024-05-01,Germany,Paid Search,SMB
+C00409,2026-08-01,Sweden,Paid Search,SMB
+C00410,2024-01-01,Netherlands,Paid Search,SMB
+C00411,2024-06-01,Sweden,Paid Search,SMB
+C00412,2024-08-01,United Kingdom,Partner,SMB
+C00413,2024-10-01,United Kingdom,Partner,SMB
+C00414,2024-05-01,Germany,Organic,SMB
+C00415,2024-01-01,Sweden,Organic,Mid-Market
+C00416,2025-12-01,United Kingdom,Referral,SMB
+C00417,2026-09-01,France,Organic,Mid-Market
+C00418,2024-05-01,Netherlands,Organic,SMB
+C00419,2024-11-01,Netherlands,Paid Search,SMB
+C00420,2025-06-01,United Kingdom,Paid Search,Enterprise

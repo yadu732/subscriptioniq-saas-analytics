@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/subscriptioniq/__init__.py
+src/subscriptioniq/cli.py
+src/subscriptioniq/generate.py
+src/subscriptioniq/metrics.py
+src/subscriptioniq/warehouse.py
+src/subscriptioniq.egg-info/PKG-INFO
+src/subscriptioniq.egg-info/SOURCES.txt
+src/subscriptioniq.egg-info/dependency_links.txt
+src/subscriptioniq.egg-info/requires.txt
+src/subscriptioniq.egg-info/top_level.txt
+tests/test_metrics.py
